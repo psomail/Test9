@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test9</string>
+    <string name="handling_units">Handling Units</string>
+    <string name="handling_unit">Handling Unit</string>
+    <string name="add_handling_unit">Add Handling Unit</string>
+    <string name="create_date">Create Date:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
