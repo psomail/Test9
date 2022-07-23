@@ -8,6 +8,7 @@
         <entry key="..\:/Users/s_perminov/AndroidStudioProjects/tests/Test9/app/src/main/res/layout/activity_main.xml" value="0.18489583333333334" />
         <entry key="..\:/Users/s_perminov/AndroidStudioProjects/tests/Test9/app/src/main/res/layout/activity_test.xml" value="0.18489583333333334" />
         <entry key="..\:/Users/s_perminov/AndroidStudioProjects/tests/Test9/app/src/main/res/layout/handling_unit_item.xml" value="0.5" />
+        <entry key="..\:/projects/android/Test9/app/src/main/res/drawable/ic_name_24dp.xml" value="0.257" />
         <entry key="..\:/projects/android/Test9/app/src/main/res/layout/activity_add_handling_unit.xml" value="0.25416666666666665" />
         <entry key="..\:/projects/android/Test9/app/src/main/res/layout/activity_handling_units.xml" value="0.22826086956521738" />
         <entry key="..\:/projects/android/Test9/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
@@ -15,6 +16,9 @@
         <entry key="..\:/projects/android/Test9/app/src/main/res/layout/activity_test_material.xml" value="0.25416666666666665" />
         <entry key="..\:/projects/android/Test9/app/src/main/res/layout/fragment_test_blank.xml" value="0.22826086956521738" />
         <entry key="..\:/projects/android/Test9/app/src/main/res/layout/handling_unit_item.xml" value="0.22826086956521738" />
+        <entry key="..\:/projects/android/Test9/app/src/main/res/layout/nav_header.xml" value="0.25416666666666665" />
+        <entry key="..\:/projects/android/Test9/app/src/main/res/layout/toolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/projects/android/Test9/app/src/main/res/menu/menu_nav.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
