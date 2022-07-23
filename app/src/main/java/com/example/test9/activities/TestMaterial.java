@@ -27,7 +27,7 @@ public class TestMaterial extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_test_material);
 
-        setupToolbar();
+        //setupToolbar();
         setupNavMenu();
         setupFab();
     }
